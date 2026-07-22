@@ -17,7 +17,7 @@ https://github.com/akshaygir15/frontend-projects/tree/main/pract-1-world-wide-we
 
 ## 📸 Project Preview
 
-![World Wide Web Homepage](images/world-wide-web-homepage.png)
+![World Wide Web Homepage](public/screenshots/world-wide-web-homepage.png)
 
 ---
 
