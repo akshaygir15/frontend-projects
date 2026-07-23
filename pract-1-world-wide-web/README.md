@@ -2,7 +2,7 @@
 
 A recreation of the world's first website using semantic HTML5.
 
-## 🔗 Project Links
+## 🔗 Live Demo & Source Code
 
 🌐 **GitHub Pages:**  
 https://akshaygir15.github.io/frontend-projects/pract-1-world-wide-web/
